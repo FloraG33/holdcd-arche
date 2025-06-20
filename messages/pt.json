@@ -1,0 +1,149 @@
+{
+  "HomePage": {
+    "title": "Olá mundo!"
+  },
+  "Hero": {
+    "slogan": "Seu agente de compras"
+  },
+  "Navigation": {
+    "home": "Início",
+    "about": "Sobre",
+    "advantage": "Vantagens",
+    "howItWork": "Como funciona",
+    "service": "Nossos serviços",
+    "industry": "Indústria",
+    "contact": "Contato",
+    "supplier": "Marcas"
+  },
+  "Footer": {
+    "copyright": "copyright"
+  },
+  "Contact": {
+    "title": "Fale conosco",
+    "name": "Nome de usuário",
+    "send": "Enviar",
+    "address": "Endereço",
+    "phone": "Telefone",
+    "offices": "Nossos escritórios",
+    "warehouse": "Armazém",
+    "qrcode": "Escaneie o QR Code para salvar nosso contato"
+  },
+  "Supplier": {
+    "filter": "Filtrar fornecedor",
+    "search": "Buscar",
+    "supplier-list": "Lista de Fornecedores"
+  },
+  "About": {
+    "title": "Sobre a Hold CD",
+    "content": {
+      "bold": {
+        "vaste": "ampla rede de fornecedores",
+        "infos": "informações precisas e confiáveis",
+        "ctarifaires": "preços competitivos e condições de entrega vantajosas",
+        "rationaliser": "simplificar suas operações e aumentar sua eficiência",
+        "transmission": "transmissão rápida de informações",
+        "disponibility": "disponibilidade de produtos",
+        "rentability": "aumento da rentabilidade",
+        "une_seul": "uma oferta, um pacote e um processo de importação simplificado"
+      },
+      "paraph1": "Há mais de duas décadas, a Hold CD se consolidou como uma referência no fornecimento de equipamentos industriais, matérias-primas e peças de reposição para empresas industriais em todo o mundo.",
+      "paraph2": "Construímos uma $vaste nos mercados europeu e norte-americano, o que nos permite acessar $infos com rapidez, além de oferecer $ctarifaires.",
+      "paraph3": "Nossos clientes optam por delegar parte de seu processo de compras à Hold CD para $rationaliser. Isso resulta em:",
+      "li1": "$transmission,",
+      "li2": "$disponibility,",
+      "li3": "$rentability,",
+      "li4": "...ou uma combinação dessas vantagens.",
+      "paraph4": "Não importa onde você esteja no mundo — basta enviar um e-mail com as referências necessárias, e nossos especialistas fornecerão uma cotação completa em 24 a 48 horas. Todas as referências, mesmo de fornecedores diferentes, serão integradas em um único processo: $une_seul."
+    }
+  },
+  "Advantage": {
+    "title": "Vantagens",
+    "card": {
+      "simplicity": {
+        "title": "Simplicidade",
+        "content": {
+          "c1": "Um único ponto de contato durante todo o processo, desde a solicitação de cotação até a entrega.",
+          "c2": "Dominamos vários idiomas para garantir uma comunicação fluida."
+        }
+      },
+      "reability": {
+        "title": "Confiabilidade",
+        "content": {
+          "c1": "Antes do envio, todas as entregas são cuidadosamente inspecionadas para evitar erros na chegada.",
+          "c2": "Garantimos o cumprimento das normas e regulamentações internacionais."
+        }
+      },
+      "costTimeSaving": {
+        "title": "Economia de Tempo e Custos",
+        "content": {
+          "c1": "Nossa ampla rede de fornecedores confiáveis garante preços competitivos e prazos de entrega respeitados."
+        }
+      },
+      "resume": "Deixe que cuidemos das tarefas de compras mais complexas, liberando seus recursos e esforços para atividades que realmente agregam valor à sua empresa."
+    }
+  },
+  "howItWork": {
+    "title": "Como funciona?",
+    "video-title": "Para saber mais, assista a este vídeo explicativo de 90 segundos.",
+    "processus_standart": "Cliente",
+    "processus_holdcd": "Nossos especialistas",
+    "morethan": "Mais de 10.000 marcas"
+  },
+  "Service": {
+    "title": "Nossos serviços",
+    "purchasing": {
+      "title": "Compras",
+      "content": {
+        "c1": "Aquisição Global: a HOLD CD é especializada na aquisição de peças de reposição, equipamentos e matérias-primas para diversas indústrias em todo o mundo.",
+        "c2": "Aproveitando parcerias de longo prazo, a HOLD CD oferece as melhores condições de preço e prazos de entrega.",
+        "c3": "Somos especialistas em localizar referências descontinuadas e peças difíceis de encontrar.",
+        "c4": "Com um processo dedicado, a HOLD CD também garante o transporte seguro de materiais perigosos."
+      }
+    },
+    "technicalAdvice": {
+      "title": "Consultoria Técnica",
+      "content": {
+        "c1": "A HOLD CD oferece orientação técnica para enfrentar os desafios que você encontrar.",
+        "c2": "Podemos sugerir referências alternativas, se necessário.",
+        "c3": "Mediante solicitação, também fornecemos soluções logísticas para a entrega no destino desejado."
+      }
+    },
+    "monitoringControl": {
+      "title": "Monitoramento e Controle",
+      "content": {
+        "c1": "Seus materiais são recebidos em nossos armazéns.",
+        "c2": "Cada item passa por uma rigorosa inspeção antes da embalagem para evitar erros na entrega.",
+        "c3": "Você pode acompanhar o progresso do seu pedido e solicitar envios parciais, se necessário."
+      }
+    },
+    "sendingProcess": {
+      "title": "Processo de Envio",
+      "content": {
+        "c1": "Todos os produtos adquiridos de diferentes fornecedores serão consolidados em uma única embalagem — na maioria das vezes reciclada —, simplificando o processo e reduzindo a pegada de carbono.",
+        "c2": "Uma lista de embalagem será fornecida, incluindo a referência do seu pedido de compra e os detalhes dos itens, para facilitar o controle.",
+        "c3": "Podemos personalizar todos os documentos conforme suas solicitações específicas.",
+        "c4": "Todos os requisitos de envio serão atendidos para agilizar os procedimentos alfandegários."
+      }
+    }
+  },
+  "Industry": {
+    "paraph1": "Na Hold CD, fornecemos soluções completas de suprimentos industriais e MRO (manutenção, reparo e operação), desenvolvidas para diversos setores. De automotivo e farmacêutico a têxtil e agrícola, nossas peças e serviços de alta qualidade são adaptados às necessidades específicas de cada segmento.",
+    "paraph2": "Com uma ampla rede de fornecedores parceiros, garantimos entregas rápidas, preços competitivos e um serviço confiável — ajudando nossos clientes a manter a eficiência operacional e a focar em suas atividades principais.",
+    "paraph3": "Se você não encontrar o seu setor listado, entre em contato conosco por e-mail — fornecemos peças para todos os segmentos.",
+    "title": {
+      "industry_chimical": "Indústria Química",
+      "industry_pharmaceutical": "Indústria Farmacêutica",
+      "industry_auto": "Indústria Automotiva",
+      "industry_dough_paper": "Indústria de Papel",
+      "industry_oil": "Setor de Energia",
+      "industry_eating": "Alimentos e Bebidas",
+      "industry_textile": "Indústria Têxtil",
+      "industry_electronic": "Eletrônica",
+      "construction": "Construção Civil",
+      "maniere": "Mineração",
+      "marine": "Indústria Marítima",
+      "agricultor": "Agronegócio",
+      "industry": "Indústria"
+    }
+  }
+}

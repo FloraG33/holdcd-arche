@@ -1,0 +1,47 @@
+.hero {
+    background-image: url('/images/Frame47.png');
+    background-size: cover; /* L'image couvre tout le header */
+    background-position: center; /* L'image est centrée */
+    background-repeat: no-repeat; /* L'image ne se répète pas */
+    height: 100vh; /* Hauteur du header */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 1024px) {
+    .hero {
+      height: 70vh; /* Hauteur ajustée pour tablette */
+      background-size: contain; /* Ajuste l'image pour éviter la coupure */
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .hero {
+      height: 50vh; /* Hauteur ajustée pour mobile */
+      background-size: contain;
+      background-position: center top; /* Ajustement pour éviter les espaces blancs */
+    }
+  }
+
+.hero-contact {
+    background-image: url('/images/office.png');
+    background-size: cover; /* L'image couvre tout le header */
+    background-position: center; /* L'image est centrée */
+    background-repeat: no-repeat; /* L'image ne se répète pas */
+    height: calc(100vh - 0px); /* Hauteur du header */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-industry {
+    background-image: url('/images/warehouse.jpg');
+    background-size: cover; /* L'image couvre tout le header */
+    background-position: center; /* L'image est centrée */
+    background-repeat: no-repeat; /* L'image ne se répète pas */
+    height: calc(100vh - 0px); /* Hauteur du header */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

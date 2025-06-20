@@ -1,0 +1,258 @@
+{
+  "HomePage": {
+    "title": "bonjour"
+  },
+  "Hero": {
+    "slogan": "Votre agent de sourcing"
+  },
+  "Navigation": {
+    "home": "Accueil",
+    "about": "A propos",
+    "advantage": "Avantages",
+    "howItWork": "Comment ça marche",
+    "service": "Nos services",
+    "industry": "Industries",
+    "contact": "Contact",
+    "supplier": "Marques"
+  },
+  "Footer": {
+    "copyright": "copyright"
+  },
+  "About": {
+    "title": "A propos de nous",
+    "content": {
+      "bold": {
+        "vaste": "vaste réseau de fournisseurs",
+        "infos": "informations précises et fiables en un temps réduit",
+        "ctarifaires": "conditions tarifaires et de livraison avantageuses",
+        "rationaliser": "rationaliser leurs opérations et améliorer leur efficacité",
+        "transmission": "transmission rapide des informations",
+        "disponibility": "disponibilité des produits",
+        "rentability": "rentabilité accrue",
+        "une_seul": "une seule offre, un seul colis et un processus d'importation simplifié"
+      },
+      "paraph1": "Depuis plus de deux décennies, Hold CD s'est imposée comme un acteur de référence dans l'approvisionnement en fournitures industrielles, matières premières et pièces de rechange pour les entreprises industrielles, à l'échelle mondiale.",
+      "paraph2": "Nous avons tissé un $vaste sur les marchés européens et nord-américains, ce qui nous permet d'accéder à des $infos, ainsi qu'à des $ctarifaires.",
+      "paraph3": "Nos clients choisissent de déléguer une partie de leur processus d'approvisionnement à Hold CD pour $rationaliser. Cela se traduit par :",
+      "li1": "une $transmission,",
+      "li2": "la $disponibility,",
+      "li3": "une $rentability,",
+      "li4": "…ou une combinaison de ces avantages.",
+      "paraph4": "Peu importe où vous vous trouvez dans le monde, il vous suffit d'envoyer un courriel avec les références nécessaires, et nos experts vous fourniront une offre globale dans un délai de 24 à 48 heures. Toutes les références, même provenant de différents fournisseurs, seront intégrées en un seul processus : $une_seul."
+    }
+  },
+  "Advantage": {
+    "title": "Avantages",
+    "card": {
+      "simplicity": {
+        "title": "Simplicité",
+        "content": {
+          "c1": "Un seul point de contact tout au long du processus, depuis votre demande de devis jusqu’à la livraison.",
+          "c2": "Nous maîtrisons plusieurs langues pour assurer une communication fluide."
+        }
+      },
+      "reability": {
+        "title": "Fiabilité",
+        "content": {
+          "c1": "Avant l’expédition, les livraisons sont méticuleusement inspectées afin de prévenir toute erreur à l’arrivée.",
+          "c2": "Nous garantissons la conformité avec les réglementations internationales."
+        }
+      },
+      "costTimeSaving": {
+        "title": "Economies de coûts et de temps",
+        "content": {
+          "c1": "Notre vaste réseau de fournisseurs de confiance assure des prix compétitifs et une livraison ponctuelle."
+        }
+      },
+      "resume": "Laissez-nous prendre en charge les tâches fastidieuses d’approvisionnement, libérant ainsi vos ressources et vos efforts pour des activités qui apportent une réelle valeur ajoutée à votre entreprise."
+    }
+  },
+  "howItWork": {
+    "title": "Comment ça marche ?",
+    "video-title": "Vous voulez en savoir plus, regardez cette vidéo explicative de 90 secondes.",
+    "processus_standart": "Votre process standard",
+    "processus_holdcd": "Votre process avec Hold CD",
+    "morethan": "Plus de 10000 Marques"
+  },
+  "Service": {
+    "title": "Nos services",
+    "purchasing": {
+      "title": "Achats",
+      "content": {
+        "c1": "Approvisionnement Mondial : Hold CD se spécialise dans l'approvisionnement de pièces détachées, d’équipements et de matières premières pour diverses industries à travers le monde.",
+        "c2": "Grâce à des relations de longue date, Hold CD propose les conditions les plus avantageuses en termes de prix et de livraison.",
+        "c3": "Hold CD excelle dans la recherche de références obsolètes et de pièces rares difficiles à trouver.",
+        "c4": "Avec un processus dédié, Hold CD garantit également la livraison sécurisée de matériaux dangereux."
+      }
+    },
+    "technicalAdvice": {
+      "title": "Conseil et assistance Technique",
+      "content": {
+        "c1": "Hold CD offre des conseils techniques pour résoudre les défis que vous rencontrez.",
+        "c2": "Nous pouvons proposer des références alternatives si nécessaire.",
+        "c3": "Sur demande, nous pouvons fournir des solutions pour la livraison à votre destination souhaitée."
+      }
+    },
+    "monitoringControl": {
+      "title": "Suivi et Contrôle",
+      "content": {
+        "c1": "Réception et Contrôle des Matériaux : Vos matériaux sont reçus dans nos entrepôts.",
+        "c2": "Chaque article fait l'objet d'une inspection rigoureuse avant l'emballage afin de prévenir toute erreur à la livraison.",
+        "c3": "Vous pouvez suivre l'avancement de votre commande et demander un envoi partiel si nécessaire."
+      }
+    },
+    "sendingProcess": {
+      "title": "Processus d’envoi",
+      "content": {
+        "c1": "Consolidation des Produits : Tous les produits provenant de divers fournisseurs seront regroupés dans un seul colis, la plupart du temps recyclé, offrant à la fois une simplification du processus et une réduction de l'empreinte carbone.",
+        "c2": "Une liste de colisage, incluant la référence de votre commande d’achat et les détails des articles, sera fournie pour faciliter votre contrôle.",
+        "c3": "Nous pouvons personnaliser tous les documents pour répondre à vos demandes spéciales.",
+        "c4": "Toutes les exigences d'expédition seront respectées pour simplifier vos procédures douanières."
+      }
+    }
+  },
+  "Contact": {
+    "title": "Contactez-nous",
+    "name": "Nom",
+    "send": "Envoyer",
+    "address": "Adresse",
+    "phone": "Tél",
+    "offices": "Nos bureaux",
+    "warehouse": "Entrepôts",
+    "qrcode": "Scannez le QR Code pour enregistrer notre contact"
+  },
+  "Industry": {
+    "paraph1": "Chez Hold CD, nous offrons des solutions complètes en fournitures industrielles et MRO (Maintenance, Réparation et Opérations) conçues pour une variété de secteurs. De l’automobile à la pharmacie en passant par le textile et l’agriculture, nos pièces et services de qualité sont adaptés aux besoins spécifiques de chaque industrie.",
+    "paraph2": "En nous appuyant sur un vaste réseau de fournisseurs partenaires, nous garantissons une livraison rapide, des prix compétitifs et un service fiable, aidant ainsi nos clients à maintenir leur efficacité opérationnelle et à se concentrer sur leurs activités principales.",
+    "paraph3": "Si vous ne voyez pas votre secteur listé, contactez-nous simplement par e-mail – Nous pouvons fournir des pièces pour tous les secteurs.",
+    "title": {
+      "industry_chimical": "Industrie chimique",
+      "industry_pharmaceutical": "Industrie pharmaceutique",
+      "industry_auto": "Industrie automobile",
+      "industry_dough_paper": "Industrie du papier",
+      "industry_oil": "Secteur de l’énergie",
+      "industry_eating": "Industrie Alimentaire",
+      "industry_textile": "Industrie textile",
+      "industry_electronic": "Industrie électronique",
+      "construction": "Construction",
+      "maniere": "Industrie minière",
+      "marine": "Industrie maritime",
+      "agricultor": "Agriculture",
+      "industry": "Industries"
+    },
+    "equipement": {
+        "automatesProgrammablesPLC":"Automates programmables (PLC)",
+        "automatesProgrammables": "Automates programmables",
+        "capteursDeProximite": "Capteurs de proximité",
+        "pompesEtCompresseurs": "Pompes et compresseurs",
+        "debitmetresManometresThermometresEtPhmetres": "Débitmètres, manomètres, thermomètres et pHmètres",
+        "redox": "Redox",
+        "codeurs": "Codeurs",
+        "servomoteurs": "Servomoteurs",
+        "systemesDinstrumentationEtDeControle": "Systèmes d'instrumentation et de contrôle",
+        "variateursDeFrequence": "Variateurs de fréquence",
+        "vannesEtJoints": "Vannes et joints",
+        "equipementDeSecuriteEtEPI": "Équipement de sécurité et EPI",
+
+        "controleDesProcessus": "Contrôle des processus",
+        "surveillanceTemperatureEtHumidite": "Surveillance de la température et de l'humidité",
+        "convoyeursEtMachinesEmballage": "Convoyeurs et machines d'emballage",
+        "equipementsSpeciauxPressionDifferencielle": "Équipements spéciaux de pression différentielle",
+        "instrumentsEtEquipementsSurveillance": "Instruments et équipements de surveillance",
+        "debitmetresSanitairesNormesSanitaires": "Débitmètres sanitaires fabriqués selon des normes sanitaires",
+        "capteursDeTemperatureSanitaires": "Capteurs de température sanitaires",
+        "systemesSterilisationEtFiltration": "Systèmes de stérilisation et de filtration",
+        "capteursDeNiveauSteriles": "Capteurs de niveau stériles",
+        "equipementsDeLaboratoire": "Équipements de laboratoire",
+        "pompesVannesEtCompresseurs": "Pompes, vannes et compresseurs",
+        "plc": "Automates programmables (PLC)",
+
+        "outilsEtEquipementsDiagnostic": "Outils et équipements de diagnostic",
+        "tuyauxCourroiesEtJoints": "Tuyaux, courroies et joints",
+        "interfacesHommeMachineHMI": "Interfaces homme-machine (HMI)",
+        "roulementsEtTransmissionsDePuissance": "Roulements et transmissions de puissance",
+        "barrieresDeSecurite": "Barrières de sécurité",
+        "filtresEtGestionDesFluides": "Filtres et gestion des fluides",
+      
+        "controleDuMouvement": "Contrôle du mouvement",
+        "raffineursEtPresses": "Raffineurs et presses",
+        "capteursDebitEtPression": "Capteurs de débit et de pression",
+        "courroiesEtRouleauxConvoyeurs": "Courroies et rouleaux convoyeurs",
+        "capteursNiveauEtTemperaturePLC": "Capteurs de niveau et de température PLC",
+        "roulementsEtTransmissionsPuissance": "Roulements et transmissions de puissance",
+
+        "equipementsSystemesCommunication": "Équipements pour systèmes de communication",
+        "instrumentation": "Instrumentation",
+        "cablageEtComposantsElectriques": "Câblage et composants électriques",
+        "processusLaboratoires": "Processus laboratoires",
+        "systemesControleEtInstrumentation": "Systèmes de contrôle et instrumentation",
+        "capteurs": "Capteurs",
+        "turbinesEtGenerateurs": "Turbines et générateurs",
+        "equipementsSpeciauxZonesSpecifiques": "Équipements spéciaux pour zones spécifiques",
+        "vannesPompesEtCompresseurs": "Vannes, pompes et compresseurs",
+        "detecteursDeGaz": "Détecteurs de gaz",
+ 
+
+        "materielEtEquipementsEmballage": "Matériel et équipements d'emballage",
+        "pompesEtVannesSanitaires": "Pompes et vannes sanitaires",
+        "systemesEtCourroiesConvoyage": "Systèmes et courroies de convoyage",
+        "controlesTemperatureEtHumidite": "Contrôles de température et d'humidité",
+
+        "machinesFilatureEtTissage": "Machines de filature et de tissage",
+        "equipementsTeintureEtFinition": "Équipements de teinture et de finition",
+        "courroiesRoulementsEtRouleaux": "Courroies, roulements et rouleaux",
+        "metiersTisserEtMachinesJacquard": "Métiers à tisser et machines Jacquard",
+        "moteursEtEntrainements": "Moteurs et entraînements",
+        "compresseursAirEtPiecesPneumatiques": "Compresseurs d'air et pièces pneumatiques",
+        "systemesHydrauliquesEtPompes": "Systèmes hydrauliques et pompes",
+
+        "equipementsFabricationSemiConducteurs": "Équipements de fabrication de semi-conducteurs",
+        "circuitsImprimesEtComposants": "Circuits imprimés et composants",
+        "instrumentsEtOutilsSurveillance": "Instruments et outils de surveillance",
+        "alimentationElectriqueEtTransformateurs": "Alimentation électrique et transformateurs",
+        "connecteursEtInterrupteurs": "Connecteurs et interrupteurs",
+        "equipementsTestEtCalibration": "Équipements de test et de calibration",
+        "systemesRefroidissementEtVentilateurs": "Systèmes de refroidissement et ventilateurs",
+
+        "pieces_pour_machines_lourdes": "Pièces pour machines lourdes (p. ex., excavateurs, bulldozers)",
+        "Equipements_pour_melange_de_beton": "Équipements pour mélange de béton",
+        "Outils_et_outils_a_main_pour_la_construction" : "Outils et outils à main pour la construction",
+        "Pompes_et_pieces_hydrauliques": "Pompes et pièces hydrauliques",
+        "Equipements_pour_grues_et_levage": "Équipements pour grues et levage",
+        "Equipements_de_forage_et_de_creusement_de_tunnels": "Équipements de forage et de creusement de tunnels",
+        "Machines_et_pieces_de_soudage": "Machines et pièces de soudage",
+        "Equipement_de_securite_et_EPI": "Équipement de sécurité et EPI" ,
+        
+        "pieces_pour_equipements_lourds": "Pièces pour équipements lourds",
+        "systemes_hydrauliques_et_composants": "Systèmes hydrauliques et composants",
+        "outils_electriques_et_fixations": "Outils électriques et fixations",
+        "pieces_pour_excavateurs_et_chargeurs": "Pièces pour excavateurs et chargeurs",
+        "composants_pour_equipements_de_levage_et_grues": "Composants pour équipements de levage et grues",
+        "pieces_pour_equipements_de_melange_de_beton": "Pièces pour équipements de mélange de béton",
+        "machines_et_pieces_de_soudage": "Machines et pièces de soudage",
+
+        "moteurs_et_composants_de_moteurs": "Moteurs et composants de moteurs",
+        "systemes_de_propulsion_(p_ex_helices_arbres)": "Systèmes de propulsion (p. ex., hélices, arbres)",
+        "pompes_et_compresseurs": "Pompes et compresseurs",
+        "systemes_et_pieces_de_convoyage": "Systèmes et pièces de convoyage",
+        "equipements_et_electroniques_de_navigation": "Équipements et électroniques de navigation",
+        "pieces_de_coque_et_structurelles":"Pièces de coque et structurelles",
+
+
+        "pieces_et_composants_pour_tracteurs": "Pièces et composants pour tracteurs",
+        "systemes_et_pompes_d_irrigation": "Systèmes et pompes d’irrigation",
+        "pieces_pour_equipements_de_recolte": "Pièces pour équipements de récolte",
+        "outils_pour_le_travail_et_la_preparation_du_sol": "Outils pour le travail et la préparation du sol",
+        "equipements_de_fertilisation_et_de_pulverisation": "Équipements de fertilisation et de pulvérisation",
+        "courroies_roulements_et_rouleaux": "Courroies, roulements et rouleaux",
+        "pieces_pour_equipements_de_semis_et_plantation": "Pièces pour équipements de semis et plantation"
+     
+
+    }
+  },
+  "Supplier": {
+    "filter": "Filtrer les fournisseurs",
+    "search": "Recherche",
+    "supplier-list": "Liste des fournisseurs"
+  }
+}

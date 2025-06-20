@@ -1,0 +1,243 @@
+{
+  "HomePage": {
+    "title": "¡Hola mundo!"
+  },
+  "Hero": {
+    "slogan": "Tu agente de compras"
+  },
+  "Navigation": {
+    "home": "Inicio",
+    "about": "Sobre",
+    "advantage": "Ventajas",
+    "howItWork": "Cómo funciona",
+    "service": "Nuestros servicios",
+    "industry": "Industria",
+    "contact": "Contacto",
+    "supplier": "Marcas"
+  },
+  "Footer": {
+    "copyright": "copyright"
+  },
+  "About": {
+    "title": "Sobre Hold CD",
+    "content": {
+      "bold": {
+        "vaste": "amplia red de proveedores",
+        "infos": "información precisa y confiable",
+        "ctarifaires": "precios competitivos y condiciones de entrega ventajosas",
+        "rationaliser": "simplificar sus operaciones y aumentar su eficiencia",
+        "transmission": "transmisión rápida de información",
+        "disponibility": "disponibilidad de productos",
+        "rentability": "aumento de la rentabilidad",
+        "une_seul": "una oferta, un paquete y un proceso de importación simplificado"
+      },
+      "paraph1": "Durante más de dos décadas, Hold CD se ha consolidado como un referente en el suministro de equipos industriales, materias primas y repuestos para empresas industriales en todo el mundo.",
+      "paraph2": "Hemos construido una $vaste en los mercados europeo y norteamericano, lo que nos permite acceder rápidamente a $infos, además de ofrecer $ctarifaires.",
+      "paraph3": "Nuestros clientes optan por delegar parte de su proceso de compras a Hold CD para $rationaliser. Esto resulta en:",
+      "li1": "$transmission,",
+      "li2": "$disponibility,",
+      "li3": "$rentability,",
+      "li4": "…o una combinación de estas ventajas.",
+      "paraph4": "No importa dónde estés en el mundo — solo tienes que enviar un correo electrónico con las referencias necesarias, y nuestros especialistas te proporcionarán una cotización completa en 24 a 48 horas. Todas las referencias, incluso de distintos proveedores, se integrarán en un único proceso: $une_seul."
+    }
+  },
+  "Advantage": {
+    "title": "Ventajas",
+    "card": {
+      "simplicity": {
+        "title": "Simplicidad",
+        "content": {
+          "c1": "Un único punto de contacto durante todo el proceso, desde la solicitud de cotización hasta la entrega.",
+          "c2": "Dominamos varios idiomas para garantizar una comunicación fluida."
+        }
+      },
+      "reability": {
+        "title": "Confiabilidad",
+        "content": {
+          "c1": "Antes del envío, todas las entregas son inspeccionadas cuidadosamente para evitar errores a la llegada.",
+          "c2": "Garantizamos el cumplimiento de normas y regulaciones internacionales."
+        }
+      },
+      "costTimeSaving": {
+        "title": "Ahorro de tiempo y costos",
+        "content": {
+          "c1": "Nuestra amplia red de proveedores confiables garantiza precios competitivos y plazos de entrega respetados."
+        }
+      },
+      "resume": "Deja que nos encarguemos de las tareas de compra más complejas, liberando tus recursos y esfuerzos para actividades que realmente agregan valor a tu empresa."
+    }
+  },
+  "howItWork": {
+    "title": "¿Cómo funciona?",
+    "video-title": "Para saber más, mira este video explicativo de 90 segundos.",
+    "processus_standart": "Cliente",
+    "processus_holdcd": "Nuestros especialistas",
+    "morethan": "Más de 10.000 marcas"
+  },
+  "Service": {
+    "title": "Nuestros Servicios",
+    "purchasing": {
+      "title": "Compras",
+      "content": {
+        "c1": "Sourcing Global: HOLD CD está especializada en la adquisición de repuestos, equipos y materias primas para diversas industrias en todo el mundo.",
+        "c2": "Aprovechando alianzas de largo plazo, HOLD CD ofrece las mejores condiciones de precio y plazos de entrega.",
+        "c3": "Somos expertos en localizar referencias descontinuadas y piezas difíciles de encontrar.",
+        "c4": "Con un proceso dedicado, HOLD CD también asegura el transporte seguro de materiales peligrosos."
+      }
+    },
+    "technicalAdvice": {
+      "title": "Asesoría Técnica",
+      "content": {
+        "c1": "HOLD CD ofrece orientación técnica para enfrentar los desafíos que encuentres.",
+        "c2": "Podemos sugerir referencias alternativas si es necesario.",
+        "c3": "A solicitud, también proporcionamos soluciones logísticas para la entrega en el destino deseado."
+      }
+    },
+    "monitoringControl": {
+      "title": "Monitoreo y Control",
+      "content": {
+        "c1": "Tus materiales son recibidos en nuestros almacenes.",
+        "c2": "Cada artículo pasa por una rigurosa inspección antes del empaquetado para evitar errores en la entrega.",
+        "c3": "Puedes seguir el progreso de tu pedido y solicitar envíos parciales si es necesario."
+      }
+    },
+    "sendingProcess": {
+      "title": "Proceso de Envío",
+      "content": {
+        "c1": "Todos los productos adquiridos de distintos proveedores serán consolidados en un único paquete — en su mayoría reciclado —, simplificando el proceso y reduciendo la huella de carbono.",
+        "c2": "Se proporcionará una lista de empaque, que incluirá la referencia de tu orden de compra y los detalles de los ítems, para facilitar el control.",
+        "c3": "Podemos personalizar todos los documentos conforme a tus solicitudes específicas.",
+        "c4": "Se cumplirán todos los requisitos de envío para agilizar los procedimientos aduaneros."
+      }
+    }
+  },
+  "Contact": {
+    "title": "Contáctanos",
+    "name": "Nombre de usuario",
+    "send": "Enviar",
+    "address": "Dirección",
+    "phone": "Teléfono",
+    "offices": "Nuestras oficinas",
+    "warehouse": "Almacén",
+    "qrcode": "Escanea el código QR para guardar nuestro contacto"
+  },
+  "Industry": {
+    "paraph1": "At Hold CD, we provide complete MRO and industrial supply solutions designed for a variety of industries. From automotive and pharmaceuticals to textile and agriculture, our premium parts and services are tailored to meet the specific needs of each sector.",
+    "paraph2": "Leveraging a vast network of partner suppliers, we guarantee prompt delivery, competitive pricing, and reliable service, helping clients maintain operational efficiency and concentrate on their core activities.",
+    "paraph3": "If you do not see your industry listed, just contact us by a simple email - We can supply parts across all sectors.",
+    "title": {
+      "industry_chimical": "Chemical industry",
+      "industry_pharmaceutical": "Pharmaceutical industry",
+      "industry_auto": "Automotive industry",
+      "industry_dough_paper": "Paper industry",
+      "industry_oil": "Energy sector",
+      "industry_eating": "Food and beverages",
+      "industry_textile": "Textile",
+      "industry_electronic": "Electronics",
+      "construction": "Construction",
+      "maniere": "Mining industry",
+      "marine": "Maritime industry",
+      "agricultor": "Agriculture",
+      "industry": "Industry"
+    },
+    "equipement": {
+      "automatesProgrammablesPLC": "PLCs",
+      "automatesProgrammables": "Programmable logic controllers",
+      "capteursDeProximite": "Proximity sensors",
+      "pompesEtCompresseurs": "Pumps & Compressors",
+      "debitmetresManometresThermometresEtPhmetres": "Flow, pressure, temperature and pH meters",
+      "redox": "Redox",
+      "codeurs": "Encoders",
+      "servomoteurs": "Servo motors",
+      "systemesDinstrumentationEtDeControle": "Instrumentation & Control Systems",
+      "variateursDeFrequence": "Frequency inverters",
+      "vannesEtJoints": "Valves & Gaskets",
+      "equipementDeSecuriteEtEPI": "Safety Gear & PPE",
+      "controleDesProcessus": "Process control",
+      "surveillanceTemperatureEtHumidite": "Temperature and humidity monitoring",
+      "convoyeursEtMachinesEmballage": "Conveyors & Packaging Machines",
+      "equipementsSpeciauxPressionDifferencielle": "Special differential pressure equipment",
+      "instrumentsEtEquipementsSurveillance": "Instrumentation & Monitoring Equipment",
+      "debitmetresSanitairesNormesSanitaires": "Sanitary flow meters manufactured under sanitary standards",
+      "capteursDeTemperatureSanitaires": "Sanitary temperature sensors",
+      "systemesSterilisationEtFiltration": "Sterilization & Filtration Systems",
+      "capteursDeNiveauSteriles": "Sterile level sensors",
+      "equipementsDeLaboratoire": "Laboratorial equipment",
+      "pompesVannesEtCompresseurs": "Pumps, Valves & Compressors",
+      "plc": "PLCs",
+      "outilsEtEquipementsDiagnostic": "Diagnostic Tools & Equipment",
+      "tuyauxCourroiesEtJoints": "Hoses, Belts & Gaskets",
+      "interfacesHommeMachineHMI": "Human-machine interfaces (HMI)",
+      "roulementsEtTransmissionsDePuissance": "Bearings & Power Transmission",
+      "barrieresDeSecurite": "Safety barriers",
+      "filtresEtGestionDesFluides": "Filters & Fluid Management",
+      "controleDuMouvement": "Motion control",
+      "raffineursEtPresses": "Refiners & Presses",
+      "capteursDebitEtPression": "Pressure flow sensors",
+      "courroiesEtRouleauxConvoyeurs": "Conveyor Belts & Rollers",
+      "capteursNiveauEtTemperaturePLC": "PLC level and temperature sensors",
+      "roulementsEtTransmissionsPuissance": "Bearings & Power Transmission",
+      "equipementsSystemesCommunication": "Equipments for communication systems",
+      "instrumentation": "Instrumentation",
+      "cablageEtComposantsElectriques": "Cabling & Electrical Components",
+      "processusLaboratoires": "Laboratorial processes",
+      "systemesControleEtInstrumentation": "Control Systems & Instrumentation",
+      "capteurs": "Sensors",
+      "turbinesEtGenerateurs": "TTurbines & Generators",
+      "equipementsSpeciauxZonesSpecifiques": "Special equipment for use in specific areas",
+      "vannesPompesEtCompresseurs": "Valves, Pumps & Compressors",
+      "detecteursDeGaz": "Gas detectors",
+      "materielEtEquipementsEmballage": "Packaging Equipment & Materials",
+      "pompesEtVannesSanitaires": "Sanitary Pumps & Valves",
+      "systemesEtCourroiesConvoyage": "Conveyor Systems & Belts",
+      "controlesTemperatureEtHumidite": "Temperature & Humidity Controls",
+      "machinesFilatureEtTissage": "Spinning & Weaving Machines",
+      "equipementsTeintureEtFinition": "Dyeing & Finishing Equipment",
+      "courroiesRoulementsEtRouleaux": "Belts, Bearings & Rollers",
+      "metiersTisserEtMachinesJacquard": "Looms & Jacquard Machines",
+      "moteursEtEntrainements": "Motors & Drives",
+      "compresseursAirEtPiecesPneumatiques": "Air Compressors & Pneumatic Parts",
+      "systemesHydrauliquesEtPompes": "Hydraulic Systems & Pumps",
+      "equipementsFabricationSemiConducteurs": "Semiconductor Manufacturing Equipment",
+      "circuitsImprimesEtComposants": "Circuit Boards & Components",
+      "instrumentsEtOutilsSurveillance": "Instrumentation & Monitoring Tools",
+      "alimentationElectriqueEtTransformateurs": "Power Supplies & Transformers",
+      "connecteursEtInterrupteurs": "Connectors & Switches",
+      "equipementsTestEtCalibration": "Testing & Calibration Equipment",
+      "systemesRefroidissementEtVentilateurs": "Cooling Systems & Fans",
+      "pieces_pour_machines_lourdes": "Heavy Machinery Parts (e.g., Excavators, Bulldozers)",
+      "Equipements_pour_melange_de_beton": "Concrete Mixing Equipment",
+      "Outils_et_outils_a_main_pour_la_construction": "Construction Tools & Hand Tools",
+      "Pompes_et_pieces_hydrauliques": "Pumps & Hydraulic Parts",
+      "Equipements_pour_grues_et_levage": "Cranes & Lifting Equipment",
+      "Equipements_de_forage_et_de_creusement_de_tunnels": "Drilling & Tunneling Equipment",
+      "Machines_et_pieces_de_soudage": "Welding Machines & Parts",
+      "Equipement_de_securite_et_EPI": "Safety Gear & PPE",
+      "pieces_pour_equipements_lourds": "Heavy Equipment Parts",
+      "systemes_hydrauliques_et_composants": "Hydraulic Systems & Components",
+      "outils_electriques_et_fixations": "Power Tools & Fasteners",
+      "pieces_pour_excavateurs_et_chargeurs": "Excavator & Loader Parts",
+      "composants_pour_equipements_de_levage_et_grues": "Cranes & Lifting Equipment Components",
+      "pieces_pour_equipements_de_melange_de_beton": "Concrete Mixing Equipment Parts",
+      "machines_et_pieces_de_soudage": "Welding Machines & Parts",
+      "moteurs_et_composants_de_moteurs": "Engines & Engine Components",
+      "systemes_de_propulsion_(p_ex_helices_arbres)": "Propulsion Systems (e.g., Propellers, Shafts)",
+      "pompes_et_compresseurs": "Pumps & Compressors",
+      "systemes_et_pieces_de_convoyage": "Conveyor Systems & Parts",
+      "equipements_et_electroniques_de_navigation": "Navigation Equipment & Electronics",
+      "pieces_de_coque_et_structurelles": "Hull & Structural Parts",
+      "pieces_et_composants_pour_tracteurs": "Tractor Parts & Components",
+      "systemes_et_pompes_d_irrigation": "Irrigation Systems & Pumps",
+      "pieces_pour_equipements_de_recolte": "Harvesting Equipment Parts",
+      "outils_pour_le_travail_et_la_preparation_du_sol": "Tillage & Soil Preparation Tools",
+      "equipements_de_fertilisation_et_de_pulverisation": "Fertilizer & Spraying Equipment",
+      "courroies_roulements_et_rouleaux": "Belts, Bearings & Rollers",
+      "pieces_pour_equipements_de_semis_et_plantation": "Seeds & Planting Equipment Parts"
+    }
+  },
+  "Supplier": {
+    "filter": "Filtrar proveedor",
+    "search": "Buscar",
+    "supplier-list": "Lista de Proveedores"
+  }
+}

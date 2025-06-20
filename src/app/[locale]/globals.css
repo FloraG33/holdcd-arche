@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sticky .header-logo {
+    @apply py-5 lg:py-2;
+  }
+
+  .sticky .menu-scroll.active {
+    @apply opacity-70;
+  }
