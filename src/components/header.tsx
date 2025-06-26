@@ -143,7 +143,7 @@ export default function Header() {
             >
               <Image
                 src="/images/logo-web-white.png"
-                alt="logo"
+                alt=" logo"
                 width={100}
                 height={10}
                 style={{ width: "auto", height: "auto" }}
