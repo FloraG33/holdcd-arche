@@ -20,14 +20,14 @@ function ContactPage() {
 
     const email = process.env.MAIL_CONTACT;
 
-    
+
     const sendEmail = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
-    
+
         emailjs
           .send(
-            'service_inbozin', 
-            'template_v9s1mqm',   
+            'service_tl63pi7',
+            'template_jpnsbbj',
             {
                 from_name: form.name,
                 to_name: "Hold CD",
@@ -35,7 +35,7 @@ function ContactPage() {
                 to_email: email,
                 message: form.message,
             },
-            'ZR4BgjlMNZRDC2Xpz',
+            'U4LdorTiwvqj-8GBy',
           )
           .then(
             () => {
@@ -83,7 +83,7 @@ function ContactPage() {
                                 <p className='text-lg font-semibold text-title'>{t('offices')}</p>
                             </div>
                             <div className='relative w-full h-full -z-10 lg:z-0'>
-                                <MapComponent 
+                                <MapComponent
                                     lat={44.84365211742628}
                                     lng={-0.5734254809420911}
                                     address="9 Rue de Condé 33064 BORDEAUX CEDEX"
@@ -96,7 +96,7 @@ function ContactPage() {
                                 <p  className='text-lg font-semibold text-title'>{t('warehouse')}</p>
                             </div>
                             <div className='relative w-full h-full'>
-                                <MapComponent 
+                                <MapComponent
                                     lat={latitude}
                                     lng={longitude}
                                     address="HOLD CD"
@@ -117,12 +117,12 @@ function ContactPage() {
                                         <path
                                             d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6ZM12.735 14c.618 0 1.093-.561.872-1.139a6.002 6.002 0 0 0-11.215 0c-.22.578.254 1.139.872 1.139h9.47Z" />
                                     </svg>
-                                    <input 
-                                        type="text" 
-                                        className="grow" 
-                                        placeholder={name} 
-                                        name="name" 
-                                        value={form.name} 
+                                    <input
+                                        type="text"
+                                        className="grow"
+                                        placeholder={name}
+                                        name="name"
+                                        value={form.name}
                                         onChange={handleChange}
                                     />
                                 </label>
@@ -137,20 +137,20 @@ function ContactPage() {
                                         <path
                                             d="M15 6.954 8.978 9.86a2.25 2.25 0 0 1-1.956 0L1 6.954V11.5A1.5 1.5 0 0 0 2.5 13h11a1.5 1.5 0 0 0 1.5-1.5V6.954Z" />
                                     </svg>
-                                    <input 
-                                        type="text" 
-                                        className="grow" 
-                                        placeholder="Email" 
-                                        name="email" 
-                                        value={form.email} 
+                                    <input
+                                        type="text"
+                                        className="grow"
+                                        placeholder="Email"
+                                        name="email"
+                                        value={form.email}
                                         onChange={handleChange}
                                     />
                                 </label>
                                 <textarea
                                     placeholder="Message"
                                     className="textarea mb-4 textarea-sm w-full"
-                                    name="message" 
-                                    value={form.message} 
+                                    name="message"
+                                    value={form.message}
                                     onChange={handleChange}
                                 >
                                 </textarea>
